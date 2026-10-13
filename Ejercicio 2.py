@@ -21,3 +21,5 @@ perimetro = 2 * base + 2 * altura
 
 print("Área:", area)
 print("Perimetro:", perimetro)
+
+#pito
